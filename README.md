@@ -1,8 +1,11 @@
 # Vietnamese-Hand-Writing-ORC
 
 **Developed by:** Embr3w
+
 **Model type:** Vintern-1B-v3.5 (VLM)
+
 **Language(s) (NLP):** Vietnamese
+
 **Language model:** Python
 
 **🚀 Introduction**
